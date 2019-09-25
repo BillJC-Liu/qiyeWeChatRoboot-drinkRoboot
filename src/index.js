@@ -2,7 +2,7 @@ const schedules = require('node-schedule')
 const axios = require('axios')
 const _ = require('lodash')
 const wx = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key="
-const key = "d161497a-c3e8-4294-bcba-732acf558210"
+const key = "盗号狗 滚犊子 haha～～"
 const time = [
   { time: '6:30', value: '这个时间因为刚睡醒，喝一杯水排毒又养颜' },
   { time: '8:30', value: '这个时候想必很多人已经坐在了自己的工作岗位上。来一杯茶水来提提神，一上午都会神清气爽哦' },
